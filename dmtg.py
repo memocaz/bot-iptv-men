@@ -31,7 +31,7 @@ col_revendedores = db['revendedores']
 
 # --- CONFIGURACIÓN DEL BOT ---
 ADMIN_ID = 1819487289  
-MI_CONTACTO_URL = "https://t.me/guillermocs" 
+MI_CONTACTO_URL = "https://t.me/memcasas" 
 TOKEN_TELEGRAM = '7955911958:AAFPZ650mbXQRcmfKDBb3Jv6fB8p0c3d5PI'
 API_KEY = "pTdYxWG3CL0MK6uRJMD35VyDst2fX07tV7csSqtULslnTKpj9ofcpecoo6EXSAMbnfGGC9cLdF3GAO5ZAxwgdhJr96ZwxEHRRU38"
 AUTH_USER = "pn8ILzbBifMetC7Oo58rD3zCOw0vnkMKyIGE120"
